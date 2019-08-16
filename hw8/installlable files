@@ -1,0 +1,6 @@
+sudo at-get install ssmtp mailutils
+
+sudo nano /etc/ssmtp/ssmtp.conf
+
+sudo pip install twilio
+
